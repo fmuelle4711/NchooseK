@@ -32,6 +32,13 @@ Installation
 pip install --use-feature=in-tree-build .
 ```
 
+Publications
+------------
+
+[Combining Hard and Soft Constraints in Quantum Constraint-Satisfaction Systems](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/sc22.pdf)  by Ellis Wilson Frank Mueller, Scott Pakin in Supercomputing (SC), Nov 2022
+
+[Mapping Constraint Problems onto Quantum Gate and Annealing Devices](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/wqcs21.pdf) by Ellis Wilson, Frank Mueller, Scott Pakin in International Workshop on Quantum Computing Software, Nov 2021. 
+
 Legal statement
 ---------------
 
